@@ -1,2 +1,2 @@
-# rag-med
-Sistem RAG care sa ofere raspunsuri din cartile de rezidentiat
+# multipdf-rag
+Sistem RAG la care putem da PDF-uri si ne da raspunsuri din ele.
